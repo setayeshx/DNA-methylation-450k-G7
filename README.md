@@ -203,12 +203,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions, feedback, or reproducibility concerns, reach out to the project members:
 
 - Setayesh Khalili — setayesh.khalili@studenti.unibo.it
-- *[Group member 2]* — name@studenti.unibo.it
-- *[Group member 3]* — name@studenti.unibo.it
-- *[Group member 4]* — name@studenti.unibo.it
-- *[Group member 5]* — name@studenti.unibo.it
-- *[Group member 6]* — name@studenti.unibo.it
-- *[Group member 7]* — name@studenti.unibo.it
+- Kiana Moradiani — name@studenti.unibo.it
+- Roksana Soheylian — name@studenti.unibo.it
+- Sara Yari Mehmandoostsofla — name@studenti.unibo.it
+- Sajjad Rezvani Khaledi — name@studenti.unibo.it
+- Mozhdeh Asadimonfared — name@studenti.unibo.it
+- Mohammad Reza Rezaei — name@studenti.unibo.it
 
 ---
 
