@@ -1,0 +1,19 @@
+# ---- Raw data (large binaries, re-downloadable) ----
+Input_data/*.idat
+Input_data/*.IDAT
+*.RData
+*.rda
+
+# ---- R session / history ----
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# ---- Rendered / temp ----
+*_cache/
+*_files/
+.DS_Store
+Thumbs.db
