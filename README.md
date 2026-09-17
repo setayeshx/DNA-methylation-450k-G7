@@ -205,7 +205,7 @@ For questions, feedback, or reproducibility concerns, reach out to the project m
 - Setayesh Khalili — setayesh.khalili@studenti.unibo.it
 - Kiana Moradiani — kiana.moradiani@studenti.unibo.it
 - Roksana Soheylian — Roksana.soheilian@studenti.unibo.it
-- Sara Yari Mehmandoostsofla — name@studenti.unibo.it
+- Sara Yari Mehmandoostsofla — sara.yarimehmandoust@studenti.unibo.it
 - Sajjad RezvaniKhaledi — sajja.rezvanikhaledi@studenti.unibo.it - s.rezvani.k@gmail.com
 - Mozhdeh Asadimonfared — name@studenti.unibo.it
 - Mohammad Reza Rezaei — name@studenti.unibo.it
